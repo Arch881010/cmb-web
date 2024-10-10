@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/Expo-Post/main#readme",
   "dependencies": {
-    "cookie-parser": "^1.4.6",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "ejs": "^3.1.10",
-    "express": "^4.21.0",
+    "express": "^4.21.1",
     "typescript": "^5.2.2"
   }
 }
